@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniel-Kill
+-  Hi, I’m @Daniel-Kill
 ## Experience
 
 - **1982**: Began programming on the Commodore VIC-20 using Commodore BASIC V2.0.
